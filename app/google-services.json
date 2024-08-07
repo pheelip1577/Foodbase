@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504125313230",
+    "firebase_url": "https://foodbase-e7d7c-default-rtdb.firebaseio.com",
+    "project_id": "foodbase-e7d7c",
+    "storage_bucket": "foodbase-e7d7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504125313230:android:c0bf78c97b392ae78ec09f",
+        "android_client_info": {
+          "package_name": "com.example.foodase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504125313230-2ejtehpq7qq80ii13dq2lkjk30fboibb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodase",
+            "certificate_hash": "4ebd89944a166f37d5878128e683e3a522cf6d3c"
+          }
+        },
+        {
+          "client_id": "504125313230-jtpsk7739q3kif6hqfpevk6d0ddbivpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAbAVoh-mtYzQJHI1pKkmZCYbU6zz6fYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504125313230-jtpsk7739q3kif6hqfpevk6d0ddbivpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
